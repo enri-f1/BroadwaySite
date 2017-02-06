@@ -1,0 +1,186 @@
+/* Broadway site */
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	z-index: 1;
+	background-color: #333333; /* darkgrey may change later */
+	height: 50px;
+	width: 100%;
+	position: relative;
+}
+
+ .nav li {
+	display: inline;
+	color: #FDFEFE;
+	font-size: 16px;
+	font-weight: 100;
+	font-family: Helvetica, sans-serif;
+	float: left;
+	position: relative;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+.nav {
+	margin-left: -10px;
+
+}
+
+.nav li a {
+	text-decoration: none;
+	color: #FDFEFE;
+}
+
+.column { 
+  background: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-top: 0px;
+  height: 600px;
+  
+}
+
+.main {
+	padding-top: 50px;
+	text-align: center;
+	
+ }
+
+.main h1 {
+	color: #333;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	font-weight: 200;
+	font-size: 80px;
+	margin-top: 100px;
+	margin-bottom: 70px;
+	text-transform: uppercase;
+}
+
+.main p {
+	background-color: #333;
+	color: #FBFCFC;
+    border-radius: 2px;
+    margin-bottom: 70px;
+    margin-top: 0px;
+    padding: 10px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: 600; 
+    display: inline-block;
+    text-align: center;
+ 
+}
+
+.main p a {
+	text-decoration: none;
+	color: #FBFCFC;
+	letter-spacing: 1.3px;
+	text-transform: uppercase;
+}
+
+.supporting {
+	
+	padding-top: 30px;
+	padding-bottom: 200px;
+}
+
+.supporting .col {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.supporting img {
+	height: 32px;
+}
+
+.supporting h2 {
+	font-family: Helvetica, sans-serif;
+	font-weight: 100;
+	font-size: 19px;
+	text-transform: uppercase;
+}
+
+.supporting p {
+	font-family: Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: 100;
+}
+
+.supporting a {
+	display: inline-block;
+	border: 1px solid #333333;
+	text-decoration: none;
+	color: #333;
+	padding: 10px;
+	border-radius: 2px;
+	font-family: Helvetica, sans-serif;
+	letter-spacing: 1.3px;
+
+}
+
+.footer{
+	clear: both;
+	background-color: #333333; /* darkgrey may change later */
+	height: 50px;
+	width: 100%;
+	position: relative;
+}
+
+.footer p {
+	color: #FBFCFC;
+	float; left;
+	font-size: 11px;
+	font-family: Times;
+	padding: 20px 0;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
