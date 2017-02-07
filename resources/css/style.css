@@ -83,8 +83,23 @@ h2 {
 .contact {
 	background-color: rgb(60, 178, 160);
 	color: white;
-	height: 300px;
+	height: 320px;
 }
+
+
+.contact .col {
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+.contact img {
+	max-width: 85%;
+	max-height: 300px;
+	padding: 10px;
+	float: right;
+}
+
 
 
 
