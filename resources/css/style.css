@@ -7,6 +7,7 @@ html, body {
 	font-family: 'Raleway';
 }
 
+/* header section & background image */
 .header {
 	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg);
 	background-position: center;
@@ -56,6 +57,8 @@ h1 a:hover{
 
 }
 
+/* main 'Our process section' */
+
 h2 {
 	padding-top: -10px;
 	text-align: center;
@@ -75,6 +78,8 @@ h2 {
 	height: 250px;
 }
 
+
+/* contact section & We're hiring */
 .contact {
 	background-color: rgb(60, 178, 160);
 	color: white;
