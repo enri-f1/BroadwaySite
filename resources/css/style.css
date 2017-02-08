@@ -93,11 +93,30 @@ h2 {
 	text-align: center;
 }
 
+
+h3 span {
+	font-size: 30px;
+}
+
+.contact h3 {
+	font-size: 25px;
+	padding-bottom: 5px;
+}
+
+.contact p {
+	font-size: 18px;
+}
 .contact img {
 	max-width: 85%;
 	max-height: 300px;
 	padding: 10px;
 	float: right;
+}
+
+/* footer and nav list */
+
+.footer {
+	text-align: right;
 }
 
 
